@@ -157,7 +157,7 @@ export default function AppAppBar() {
 
                 <Divider sx={{ my: 3 }} />
                 <MenuItem>
-                  <Button color="primary" variant="contained" fullWidth
+                  <Button color="success" variant="contained" fullWidth
                   onClick={()=>window.open("public/resume/AkhilGandepalliResume latest.pdf")}
                   >
                     Resume
