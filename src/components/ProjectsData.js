@@ -1,7 +1,7 @@
 const projects = {
   React: [
     {
-      image: "public/projectimages/wpsasystems_react.png",
+      image: "/projectimages/wpsasystems_react.png",
       title: "Wasi PSA Systems",
       desc: `It is an ecommerce website using Reactjs and MUI.
       Using React hooks and mui components to store, display and 
@@ -10,7 +10,7 @@ const projects = {
       liveLink: "https://willowy-kitsune-533c28.netlify.app/",
     },
     {
-      image: "public/projectimages/assetexperts_react.png",
+      image: "/projectimages/assetexperts_react.png",
       title: "Asset Experts",
       desc: `Asset Experts using Reactjs and MUI, It is an ecommerce website for properties on rent or sale can be uploaded and 
       When any user is wanted the property he can directy contact the seller.`,
@@ -18,7 +18,7 @@ const projects = {
       liveLink: "https://polite-dango-aac8c8.netlify.app/",
     },
     {
-      image: "public/projectimages/mseapp_react.png",
+      image: "/projectimages/mseapp_react.png",
       title: "Mental Status Examination",
       desc: `MSE using Reactjs, useform and MUI.
       It is a form with patient details and 
@@ -28,7 +28,7 @@ const projects = {
       liveLink: "https://mental-status-examination-4.netlify.app/",
     },
     {
-      image: "public/projectimages/userauthmern_react.png",
+      image: "/projectimages/userauthmern_react.png",
       title: "User Authentication MERN",
       desc: `User Authentication usong MERN Stack.
         Using MERN stack to register or login user.`,
@@ -37,7 +37,7 @@ const projects = {
     },
 
     {
-      image: "public/projectimages/crudredux_react.png",
+      image: "/projectimages/crudredux_react.png",
       title: "CRUD Redux",
       desc: `CRUD operations using Reactjs and Redux.
       Using Redux library store, user slice and axios library to perform crud operations.`,
@@ -45,7 +45,7 @@ const projects = {
       liveLink: "https://majestic-monstera-6f2a04.netlify.app/",
     },
     {
-      image: "public/projectimages/expensetracker_react.png",
+      image: "/projectimages/expensetracker_react.png",
       title: "Expense Tracker",
       desc: `Expense Tracker using Reactjs and context api.
       Using context hooks stores transaction data using form and display transaction list.`,
@@ -54,7 +54,7 @@ const projects = {
       liveLink: "https://magical-cupcake-53b03e.netlify.app/",
     },
     {
-      image: "public/projectimages/crudcontextapi_react.png",
+      image: "/projectimages/crudcontextapi_react.png",
       title: "CRUD Context api",
       desc: `CRUD operations using Reactjs and Context api.
         Using createContext, useContext hooks and axios library to perform crud operations.`,
@@ -62,7 +62,7 @@ const projects = {
       liveLink: "https://glittery-nougat-5edf14.netlify.app/",
     },
     {
-      image: "public/projectimages/multistepform_react.png",
+      image: "/projectimages/multistepform_react.png",
       title: "Multi Step Form",
       desc: `Multi step form using Reactjs, state management and form validation
         and It takes user data in 3 step form and at last display the data entered.`,
@@ -72,7 +72,7 @@ const projects = {
   ],
   "Vanila JavaScript": [
     {
-      image: "public/projectimages/shopitappjs_image.png",
+      image: "/projectimages/shopitappjs_image.png",
       title: "Shop IT Website",
       desc: `Shop IT Ecommerce Website using HTML, CSS and JS. 
         Here it gets items from database using fetch api and
@@ -82,7 +82,7 @@ const projects = {
       liveLink: "https://preeminent-parfait-6cbaec.netlify.app/",
     },
     {
-      image: "public/projectimages/snakegameappjs_image.png",
+      image: "/projectimages/snakegameappjs_image.png",
       title: "Snake Game",
       desc: `Snake Game using HTML, CSS and JS. 
         Using query selector, arrow keys, local storage for highscore and
@@ -91,7 +91,7 @@ const projects = {
       liveLink: "https://gentle-kitsune-60ed3c.netlify.app/",
     },
     {
-      image: "public/projectimages/colorcrushgameappjs_image.png",
+      image: "/projectimages/colorcrushgameappjs_image.png",
       title: "Color Crush",
       desc: `Color Crush game using HTML, CSS and JS. 
         Using query selector, drag event listeners and
@@ -100,7 +100,7 @@ const projects = {
       liveLink: "https://willowy-semifreddo-55830a.netlify.app/",
     },
     {
-      image: "public/projectimages/stopwatchappjs_image.png",
+      image: "/projectimages/stopwatchappjs_image.png",
       title: "Stop Watch",
       desc: `Stop watch using HTML, CSS and JS. 
         Using query selector, event listeners, set and clear intervel methods.`,
@@ -109,7 +109,7 @@ const projects = {
       liveLink: "https://magnificent-trifle-ca87a0.netlify.app/",
     },
     {
-      image: "public/projectimages/todolistappjs_image.png",
+      image: "/projectimages/todolistappjs_image.png",
       title: "Todo List",
       desc: `Todo list page using HTML, CSS and JS. 
         Using query selector, modal form and different icons.`,
@@ -117,7 +117,7 @@ const projects = {
       liveLink: "https://storied-pony-d02060.netlify.app/",
     },
     {
-      image: "public/projectimages/getcartoonsappjs_image.png",
+      image: "/projectimages/getcartoonsappjs_image.png",
       title: "Cartoon Characters",
       desc: `Display cards using HTML, CSS and JS. 
         Using query selector, fetch api, create element, add classList methods to get data using fetch api and 
@@ -129,7 +129,7 @@ const projects = {
   ],
   "UI Practice": [
     {
-      image: "public/projectimages/yoyowebsite_image.png",
+      image: "/projectimages/yoyowebsite_image.png",
       title: "YOYO Hotels Website",
       desc: `Created a website using HTML and CSS, 
         It has 5 pages home page, login page, register page, 
@@ -140,7 +140,7 @@ const projects = {
       liveLink: "https://magenta-basbousa-324b9a.netlify.app/",
     },
     {
-      image: "public/projectimages/netflixhomeui_image.png",
+      image: "/projectimages/netflixhomeui_image.png",
       title: "Netflix Home Page",
       desc: "Cloned Netflix home page using HTML and CSS",
       gitHub:
@@ -148,7 +148,7 @@ const projects = {
       liveLink: "https://wondrous-pasca-cfc6bc.netlify.app/",
     },
     {
-      image: "public/projectimages/instaloginui_image.png",
+      image: "/projectimages/instaloginui_image.png",
       title: "Instagram Login Page",
       desc: "Cloned Instagram login page using HTML and CSS",
       gitHub:
@@ -156,7 +156,7 @@ const projects = {
       liveLink: "https://aesthetic-kitsune-845785.netlify.app/",
     },
     {
-      image: "public/projectimages/facebookui_image.png",
+      image: "/projectimages/facebookui_image.png",
       title: "Facebook Login Page",
       desc: "Cloned facebook login page using HTML and CSS",
       gitHub:
@@ -164,7 +164,7 @@ const projects = {
       liveLink: "https://coruscating-semolina-5cdbab.netlify.app/",
     },
     {
-      image: "public/projectimages/youtubeui_image.png",
+      image: "/projectimages/youtubeui_image.png",
       title: "Youtube Home Page",
       desc: "Cloned youtube home page using HTML and CSS and made responsive using media queries",
       gitHub:
